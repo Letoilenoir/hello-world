@@ -1,4 +1,6 @@
 # hello-world
 A little about me 
-Hi, I am a latecomer to code & web development, currently in my final year of a BSc (Honours) Computing & IT and Design via the Open University 
-Update 15/11/2022 Completed the degree in Dec 2021, as of today am 3 weeks in to a Cisco DEVASC course
+Hi, I am a latecomer to code & web development, with a BSc (Honours) Computing & IT and Design via the Open University 
+Completed the degree in Dec 2021
+In 2002 took a Cisco DEVASC course and am currently building my portolio
+Started my coding journey by adopting php scripts for online gaming. Then took a web design course (HTML & CSS) using Dreamweaver
